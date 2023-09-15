@@ -10707,7 +10707,8 @@ h6 {
 }
 
 .header .nav-item.active .nav-link {
-    color: rgba(0, 0, 0)
+    color: rgba(0, 0, 0);
+    background-color: #138496;
 }
 
 .header .nav-item.active .nav-link:hover {
